@@ -17,9 +17,9 @@ const About = () => {
                 </p>
                 <p className='a-desc'>
                     Coming from manzal tamim a city from the north tunisia. I was antuthiastic about computer science from high school.
-                    I got my bachelor degree in computer science. My passion for computer schience guided me to apply in Higher computer science to polish my skills and get new knoledge about this vast field.
+                    I got my bachelor degree in computer science. My passion for computer science guided me to apply in Higher computer science to polish my skills and get new knoledge about this vast field.
                     By the end of 2017 i got my first collage Computer Science degree.<br/><br/>
-                    In that time Artificial intelligence became more popular So i applied for A masters In AI. 
+                    By that time Artificial intelligence became more popular So i applied for A masters In AI. 
                     My passion for research helped me in learning new technologies like React and DevOps.
                 </p>
             </div>
